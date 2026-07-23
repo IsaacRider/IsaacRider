@@ -3,15 +3,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-rider" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="mailto:Isaac.M.Rider@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gmail/gmail-original.svg" alt="Email" width="35" height="35"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
   <a href="https://isaacrider.github.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" alt="Website" width="30" height="30"/>
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
@@ -27,9 +25,11 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
 
 ---
 
-## 🚀 Startups
+## 🚀 Startups/Companies
 
-- [**Tonetta**](https://www.tonetta.ai/)<br>
+- [**Tonetta Desktop Application**](https://github.com/IsaacRider/DesktopApplication)<br>
+  [**Tonetta Website**](https://github.com/IsaacRider/tonetta-web)<br>
+  [**Tonetta Server**](https://github.com/IsaacRider/ServerBackup)<br>
   Cross-platform AI-driven voice augmentation desktop application. Cofounder & lead developer, architected the product and led a team of engineering interns.
 
 - [**Vibrant Stripes LLC**](https://vibrantstripes.com/)<br>
@@ -37,13 +37,16 @@ I enjoy collaborating on meaningful projects, learning new technologies, and con
 
 ---
 
-## 🛠️ Personal Projects
+## 🛠️ Personal/Group Projects
 
-- [**PipeDreams Capital**](https://github.com/isaacrider)<br>
-  AI-powered stock trading platform using ARIMA, CNN, and LSTM models. Senior capstone project.
+- [**Personal Website**](https://github.com/IsaacRider/IsaacRider.github.io)<br>
+  A github.io website that explains who I am in a resume format.
 
-- [**YouTube-Playlist**](https://github.com/isaacrider)<br>
-  A free, cross-platform offline music player for Android.
+- [**YouTube-Playlist**](https://github.com/IsaacRider/YouTube-Playlist)<br>
+  A free, offline music player for Android.
+
+- [**TigerHacks-2024-Agriculture**](https://github.com/alextaylor04/TigerHacks-2024-Agriculture)<br>
+  A real-world application for farmers to choose the best crop to plant in a given piece of farmland.
 
 ---
 
